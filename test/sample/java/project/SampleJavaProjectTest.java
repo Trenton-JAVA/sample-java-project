@@ -31,7 +31,7 @@ public class SampleJavaProjectTest {
         sjp.setName("foo");
         assertEquals("foo", sjp.getName());
     }
-
+/** Nedd to add another part here for the get name and add another name 
     /**
      * Tests that the null check in the setter.
      */
